@@ -11,7 +11,7 @@ This repository demonstrates the implementation of **Topological Sorting** using
 
 ### Prerequisites
 
-- Python 3.x
+- Python
 
 ### Installation
 
